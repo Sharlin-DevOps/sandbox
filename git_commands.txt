@@ -1,0 +1,14 @@
+Add to staging
+git add -A
+Commit changes
+git commit -m "Your message here"
+Push code to git
+git push origin master
+
+Nuke code
+git add -A
+git stash
+git stash clear
+
+Get status
+git status
