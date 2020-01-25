@@ -6,6 +6,7 @@ $elevator3 = rand(1,10);
 $elevator4 = rand(1,10);
 $elevator5 = rand(1,10);
 $elevator6 = rand(1,10);
+//A small change
 print_r('User Position:' . $user);
 echo '<br>';
 $elevator_positions = [$elevator1, $elevator2, $elevator3, $elevator4, $elevator5, $elevator6];
